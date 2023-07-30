@@ -11,10 +11,10 @@
 # hlsearch on (H) or off (h):
 ~H
 # Command Line History (newest to oldest):
-:q
-|2,0,1690719077,,"q"
 :wq
-|2,0,1690718290,,"wq"
+|2,0,1690721164,,"wq"
+:q
+|2,0,1690720873,,"q"
 
 # Search String History (newest to oldest):
 
@@ -27,24 +27,78 @@
 # Registers:
 
 # File marks:
-'0  1  0  ~/.git/COMMIT_EDITMSG
-|4,48,1,0,1690719077,"~/.git/COMMIT_EDITMSG"
-'1  1  19  ~/azure/index.html
-|4,49,1,19,1690718290,"~/azure/index.html"
-'2  1  18  ~/tcs/index.html
-|4,50,1,18,1690718228,"~/tcs/index.html"
-'3  2  28  ~/aws/dockerfile
-|4,51,2,28,1690718096,"~/aws/dockerfile"
-'4  1  36  ~/aws/index.html
-|4,52,1,36,1690718035,"~/aws/index.html"
+'0  17  16  ~/docker-compose.yaml
+|4,48,17,16,1690721164,"~/docker-compose.yaml"
+'1  1  0  /var/lib/jenkins/ll
+|4,49,1,0,1690720873,"/var/lib/jenkins/ll"
+'2  1  0  ~/.git/COMMIT_EDITMSG
+|4,50,1,0,1690719077,"~/.git/COMMIT_EDITMSG"
+'3  1  19  ~/azure/index.html
+|4,51,1,19,1690718290,"~/azure/index.html"
+'4  1  18  ~/tcs/index.html
+|4,52,1,18,1690718228,"~/tcs/index.html"
+'5  2  28  ~/aws/dockerfile
+|4,53,2,28,1690718096,"~/aws/dockerfile"
+'6  1  36  ~/aws/index.html
+|4,54,1,36,1690718035,"~/aws/index.html"
 
 # Jumplist (newest first):
+-'  17  16  ~/docker-compose.yaml
+|4,39,17,16,1690721164,"~/docker-compose.yaml"
+-'  1  0  ~/docker-compose.yaml
+|4,39,1,0,1690720909,"~/docker-compose.yaml"
+-'  1  0  /var/lib/jenkins/ll
+|4,39,1,0,1690720873,"/var/lib/jenkins/ll"
+-'  1  0  /var/lib/jenkins/ll
+|4,39,1,0,1690720873,"/var/lib/jenkins/ll"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1690719077,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1690719077,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1690719077,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1690719077,"~/.git/COMMIT_EDITMSG"
 -'  1  19  ~/azure/index.html
 |4,39,1,19,1690718290,"~/azure/index.html"
 -'  1  19  ~/azure/index.html
 |4,39,1,19,1690718290,"~/azure/index.html"
+-'  1  19  ~/azure/index.html
+|4,39,1,19,1690718290,"~/azure/index.html"
+-'  1  19  ~/azure/index.html
+|4,39,1,19,1690718290,"~/azure/index.html"
+-'  1  19  ~/azure/index.html
+|4,39,1,19,1690718290,"~/azure/index.html"
+-'  1  19  ~/azure/index.html
+|4,39,1,19,1690718290,"~/azure/index.html"
+-'  1  19  ~/azure/index.html
+|4,39,1,19,1690718290,"~/azure/index.html"
+-'  1  19  ~/azure/index.html
+|4,39,1,19,1690718290,"~/azure/index.html"
+-'  1  18  ~/tcs/index.html
+|4,39,1,18,1690718228,"~/tcs/index.html"
+-'  1  18  ~/tcs/index.html
+|4,39,1,18,1690718228,"~/tcs/index.html"
+-'  1  18  ~/tcs/index.html
+|4,39,1,18,1690718228,"~/tcs/index.html"
+-'  1  18  ~/tcs/index.html
+|4,39,1,18,1690718228,"~/tcs/index.html"
+-'  1  18  ~/tcs/index.html
+|4,39,1,18,1690718228,"~/tcs/index.html"
+-'  1  18  ~/tcs/index.html
+|4,39,1,18,1690718228,"~/tcs/index.html"
+-'  1  18  ~/tcs/index.html
+|4,39,1,18,1690718228,"~/tcs/index.html"
+-'  1  18  ~/tcs/index.html
+|4,39,1,18,1690718228,"~/tcs/index.html"
+-'  1  18  ~/tcs/index.html
+|4,39,1,18,1690718228,"~/tcs/index.html"
+-'  1  18  ~/tcs/index.html
+|4,39,1,18,1690718228,"~/tcs/index.html"
+-'  1  18  ~/tcs/index.html
+|4,39,1,18,1690718228,"~/tcs/index.html"
+-'  1  18  ~/tcs/index.html
+|4,39,1,18,1690718228,"~/tcs/index.html"
 -'  1  18  ~/tcs/index.html
 |4,39,1,18,1690718228,"~/tcs/index.html"
 -'  1  18  ~/tcs/index.html
@@ -69,6 +123,54 @@
 |4,39,2,28,1690718096,"~/aws/dockerfile"
 -'  2  28  ~/aws/dockerfile
 |4,39,2,28,1690718096,"~/aws/dockerfile"
+-'  2  28  ~/aws/dockerfile
+|4,39,2,28,1690718096,"~/aws/dockerfile"
+-'  2  28  ~/aws/dockerfile
+|4,39,2,28,1690718096,"~/aws/dockerfile"
+-'  2  28  ~/aws/dockerfile
+|4,39,2,28,1690718096,"~/aws/dockerfile"
+-'  2  28  ~/aws/dockerfile
+|4,39,2,28,1690718096,"~/aws/dockerfile"
+-'  2  28  ~/aws/dockerfile
+|4,39,2,28,1690718096,"~/aws/dockerfile"
+-'  2  28  ~/aws/dockerfile
+|4,39,2,28,1690718096,"~/aws/dockerfile"
+-'  2  28  ~/aws/dockerfile
+|4,39,2,28,1690718096,"~/aws/dockerfile"
+-'  2  28  ~/aws/dockerfile
+|4,39,2,28,1690718096,"~/aws/dockerfile"
+-'  2  28  ~/aws/dockerfile
+|4,39,2,28,1690718096,"~/aws/dockerfile"
+-'  2  28  ~/aws/dockerfile
+|4,39,2,28,1690718096,"~/aws/dockerfile"
+-'  2  28  ~/aws/dockerfile
+|4,39,2,28,1690718096,"~/aws/dockerfile"
+-'  2  28  ~/aws/dockerfile
+|4,39,2,28,1690718096,"~/aws/dockerfile"
+-'  2  28  ~/aws/dockerfile
+|4,39,2,28,1690718096,"~/aws/dockerfile"
+-'  2  28  ~/aws/dockerfile
+|4,39,2,28,1690718096,"~/aws/dockerfile"
+-'  2  28  ~/aws/dockerfile
+|4,39,2,28,1690718096,"~/aws/dockerfile"
+-'  2  28  ~/aws/dockerfile
+|4,39,2,28,1690718096,"~/aws/dockerfile"
+-'  2  28  ~/aws/dockerfile
+|4,39,2,28,1690718096,"~/aws/dockerfile"
+-'  2  28  ~/aws/dockerfile
+|4,39,2,28,1690718096,"~/aws/dockerfile"
+-'  2  28  ~/aws/dockerfile
+|4,39,2,28,1690718096,"~/aws/dockerfile"
+-'  2  28  ~/aws/dockerfile
+|4,39,2,28,1690718096,"~/aws/dockerfile"
+-'  2  28  ~/aws/dockerfile
+|4,39,2,28,1690718096,"~/aws/dockerfile"
+-'  2  28  ~/aws/dockerfile
+|4,39,2,28,1690718096,"~/aws/dockerfile"
+-'  2  28  ~/aws/dockerfile
+|4,39,2,28,1690718096,"~/aws/dockerfile"
+-'  2  28  ~/aws/dockerfile
+|4,39,2,28,1690718096,"~/aws/dockerfile"
 -'  1  0  ~/aws/dockerfile
 |4,39,1,0,1690718045,"~/aws/dockerfile"
 -'  1  0  ~/aws/dockerfile
@@ -85,30 +187,54 @@
 |4,39,1,0,1690718045,"~/aws/dockerfile"
 -'  1  0  ~/aws/dockerfile
 |4,39,1,0,1690718045,"~/aws/dockerfile"
--'  1  36  ~/aws/index.html
-|4,39,1,36,1690718035,"~/aws/index.html"
--'  1  36  ~/aws/index.html
-|4,39,1,36,1690718035,"~/aws/index.html"
--'  1  36  ~/aws/index.html
-|4,39,1,36,1690718035,"~/aws/index.html"
--'  1  36  ~/aws/index.html
-|4,39,1,36,1690718035,"~/aws/index.html"
--'  1  36  ~/aws/index.html
-|4,39,1,36,1690718035,"~/aws/index.html"
--'  1  36  ~/aws/index.html
-|4,39,1,36,1690718035,"~/aws/index.html"
--'  1  36  ~/aws/index.html
-|4,39,1,36,1690718035,"~/aws/index.html"
--'  1  36  ~/aws/index.html
-|4,39,1,36,1690718035,"~/aws/index.html"
--'  1  36  ~/aws/index.html
-|4,39,1,36,1690718035,"~/aws/index.html"
--'  1  36  ~/aws/index.html
-|4,39,1,36,1690718035,"~/aws/index.html"
--'  1  36  ~/aws/index.html
-|4,39,1,36,1690718035,"~/aws/index.html"
--'  1  36  ~/aws/index.html
-|4,39,1,36,1690718035,"~/aws/index.html"
+-'  1  0  ~/aws/dockerfile
+|4,39,1,0,1690718045,"~/aws/dockerfile"
+-'  1  0  ~/aws/dockerfile
+|4,39,1,0,1690718045,"~/aws/dockerfile"
+-'  1  0  ~/aws/dockerfile
+|4,39,1,0,1690718045,"~/aws/dockerfile"
+-'  1  0  ~/aws/dockerfile
+|4,39,1,0,1690718045,"~/aws/dockerfile"
+-'  1  0  ~/aws/dockerfile
+|4,39,1,0,1690718045,"~/aws/dockerfile"
+-'  1  0  ~/aws/dockerfile
+|4,39,1,0,1690718045,"~/aws/dockerfile"
+-'  1  0  ~/aws/dockerfile
+|4,39,1,0,1690718045,"~/aws/dockerfile"
+-'  1  0  ~/aws/dockerfile
+|4,39,1,0,1690718045,"~/aws/dockerfile"
+-'  1  0  ~/aws/dockerfile
+|4,39,1,0,1690718045,"~/aws/dockerfile"
+-'  1  0  ~/aws/dockerfile
+|4,39,1,0,1690718045,"~/aws/dockerfile"
+-'  1  0  ~/aws/dockerfile
+|4,39,1,0,1690718045,"~/aws/dockerfile"
+-'  1  0  ~/aws/dockerfile
+|4,39,1,0,1690718045,"~/aws/dockerfile"
+-'  1  0  ~/aws/dockerfile
+|4,39,1,0,1690718045,"~/aws/dockerfile"
+-'  1  0  ~/aws/dockerfile
+|4,39,1,0,1690718045,"~/aws/dockerfile"
+-'  1  0  ~/aws/dockerfile
+|4,39,1,0,1690718045,"~/aws/dockerfile"
+-'  1  0  ~/aws/dockerfile
+|4,39,1,0,1690718045,"~/aws/dockerfile"
+-'  1  0  ~/aws/dockerfile
+|4,39,1,0,1690718045,"~/aws/dockerfile"
+-'  1  0  ~/aws/dockerfile
+|4,39,1,0,1690718045,"~/aws/dockerfile"
+-'  1  0  ~/aws/dockerfile
+|4,39,1,0,1690718045,"~/aws/dockerfile"
+-'  1  0  ~/aws/dockerfile
+|4,39,1,0,1690718045,"~/aws/dockerfile"
+-'  1  0  ~/aws/dockerfile
+|4,39,1,0,1690718045,"~/aws/dockerfile"
+-'  1  0  ~/aws/dockerfile
+|4,39,1,0,1690718045,"~/aws/dockerfile"
+-'  1  0  ~/aws/dockerfile
+|4,39,1,0,1690718045,"~/aws/dockerfile"
+-'  1  0  ~/aws/dockerfile
+|4,39,1,0,1690718045,"~/aws/dockerfile"
 -'  1  36  ~/aws/index.html
 |4,39,1,36,1690718035,"~/aws/index.html"
 -'  1  36  ~/aws/index.html
@@ -119,6 +245,20 @@
 |4,39,1,36,1690718035,"~/aws/index.html"
 
 # History of marks within files (newest to oldest):
+
+> ~/docker-compose.yaml
+	*	1690721161	0
+	"	17	16
+	^	17	17
+	.	17	16
+	+	9	8
+	+	14	6
+	+	18	0
+	+	17	16
+
+> /var/lib/jenkins/ll
+	*	1690720872	0
+	"	1	0
 
 > ~/.git/COMMIT_EDITMSG
 	*	1690719075	0
