@@ -2,17 +2,17 @@
 version: "3"
 services:
   aws:
-    build: . /aws/
+    build: ./aws/
     ports:
       - "8081:80"
 
   azure:
-    build: . /azure/
+    build: ./azure/
     ports:
       - "8082:80"
 
   tcs:
-    build: . /tcs/
+    build: ./tcs/
     ports:
       - "8083:80"
 
